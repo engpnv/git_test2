@@ -6,3 +6,4 @@ Qual seu nome?
 Fulano de tal
 
 08/09/2023
+Você gosta de programar?
